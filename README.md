@@ -6,7 +6,7 @@ A React app using [The Random User API](https://randomuser.me/) to fill in searc
 
 The app loads a directory of employees and provides a search bar for quickly sorting through the records by first name.
 
-To view the app live, [click here!](https://hishamkader.github.io/rut-hw11-employeetracker/)
+To view the app live, [click here!]()
 
 ## How to use this app
 * Start typing an employee's first name into the search bar to narrow your results
