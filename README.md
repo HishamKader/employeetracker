@@ -20,4 +20,3 @@ Run `npm install` to pull in required dependencies
 
 Run `npm start` to start the application in dev mode.
 
-Run `npm test` to launch the test runner in interactive watch mode.
