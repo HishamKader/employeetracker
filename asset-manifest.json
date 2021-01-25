@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rut-hw11-employeetracker/static/css/main.9ceb14e8.chunk.css",
+    "main.js": "/rut-hw11-employeetracker/static/js/main.c95e0e3f.chunk.js",
+    "main.js.map": "/rut-hw11-employeetracker/static/js/main.c95e0e3f.chunk.js.map",
+    "runtime-main.js": "/rut-hw11-employeetracker/static/js/runtime-main.4d2e9832.js",
+    "runtime-main.js.map": "/rut-hw11-employeetracker/static/js/runtime-main.4d2e9832.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/rut-hw11-employeetracker/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.9a8d7ece.chunk.js": "/rut-hw11-employeetracker/static/js/2.9a8d7ece.chunk.js",
+    "static/js/2.9a8d7ece.chunk.js.map": "/rut-hw11-employeetracker/static/js/2.9a8d7ece.chunk.js.map",
+    "index.html": "/rut-hw11-employeetracker/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/rut-hw11-employeetracker/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.9ceb14e8.chunk.css.map": "/rut-hw11-employeetracker/static/css/main.9ceb14e8.chunk.css.map",
+    "static/js/2.9a8d7ece.chunk.js.LICENSE.txt": "/rut-hw11-employeetracker/static/js/2.9a8d7ece.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d2e9832.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.9a8d7ece.chunk.js",
+    "static/css/main.9ceb14e8.chunk.css",
+    "static/js/main.c95e0e3f.chunk.js"
+  ]
+}
